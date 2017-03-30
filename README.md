@@ -1,19 +1,12 @@
 # code-style-guide
 掌门1对1前端代码规范
 
-## HTML 和 CSS
-- [中文](http://codeguide.bootcss.com/)
-- [英文](http://codeguide.co/)
+## HTML 和 CSS 代码风格规范
+- [中文](http://codeguide.bootcss.com/)/[英文](http://codeguide.co/)
 
-## javascript 
-
-### es6
-- [es6中文](js-es6-ch.md)
-- [es6英文](js-es6-en.md)
-
-### es5
-- [es6中文](js-es5-ch.md)
-- [es6英文](js-es5-en.md)
+## javascript 代码风格规范
+- [es6中文](js-es6-ch.md)/[es6英文](js-es6-en.md)
+- [es5中文](js-es5-ch.md)/[es5英文](js-es5-en.md)
 
 ## License
 
