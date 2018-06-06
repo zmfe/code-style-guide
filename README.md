@@ -4,8 +4,23 @@
 - [中文](http://codeguide.bootcss.com/)/[英文](http://codeguide.co/)
 
 ## javascript 代码风格规范
-- [es6中文](js-es6-ch.md)/[es6英文](js-es6-en.md)
-- [es5中文](js-es5-ch.md)/[es5英文](js-es5-en.md)
+- [中文](https://github.com/standard/standard/blob/master/docs/README-zhcn.md)/[英文](https://github.com/standard/standard)
+
+## vue 代码风格规范
+- [vue](https://cn.vuejs.org/v2/style-guide/)
+
+## react 代码风格规范
+- [react](https://github.com/airbnb/javascript/tree/master/react)
+
+## 文档规范
+- [文档代码规范](https://github.com/ruanyf/document-style-guide/blob/master/README.md)
+
+## 工具
+- [vscode-standardjs](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs)
+- [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
+
+## 参考
+- [Write Perfect Code With Standard And ESLint - JSConf.Asia 2018](https://www.youtube.com/watch?v=kuHfMw8j4xk)
 
 ## License
 
